@@ -1,5 +1,9 @@
 # Calculos Contables
 
+## Author
+Ricardo Daniel Quiroga 
+https://github.com/l2radamanthys
+
 ## Cuotas vs Contado vs Mixto
 
 ### Motivacion
@@ -12,3 +16,12 @@ Esta duda surgio en base a la siguiente noticia probar su veracidad y permitir a
 [El truco para pagar la mitad por cualquier celular: se hace aprovechando la crisis económica](https://www.cronista.com/infotechnology/gadgets/el-rulo-que-usa-las-tasa-de-los-bancos-y-las-cuotas-para-pagar-la-mitad-por-cualquier-celular/)
 
 La idea en si es generalizar no solo para caso cuotas sin interes sino cualquier escenario posible que nos permita tomar una desicion.
+
+### Deslinde de responsabilidad
+
+Esto es solo un ejercicio matematico basado en un escenario simplificado donde no se toman en cuenta cuestiones inflacionarias y demas.
+
+### Referencias
+
+- [Capitalizacion Continua](https://es.wikipedia.org/wiki/Capitalizaci%C3%B3n_continua)
+
